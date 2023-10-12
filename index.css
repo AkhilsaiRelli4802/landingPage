@@ -1,0 +1,61 @@
+.navbar{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.container{
+    background-image:url("https://img.freepik.com/premium-photo/beautiful-illustration-with-smoke-colorful-background_265989-17882.jpg?size=626&ext=jpg&ga=GA1.2.1211982432.1675417347&semt=ais");
+    background-size: cover;
+}
+.navlink{
+    color:white;
+}
+.navimage{
+    height:40px;
+    border-radius: 50%;
+}
+.appcontainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.mobile{
+    width:300px;
+    height:500px;
+}
+.buddi{
+    padding-left: 10px;
+    color:white;
+    font-family: chiller;
+    font-size: 20px;
+}
+.head{
+    color:white;
+    font-family:sans-serif;
+    font-weight: 400;
+    padding:20px;
+    font-size: 30px;
+    font-style: bold;
+}
+.desc{
+    color:white;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    text-align: center;
+    padding:30px
+}
+.buttons{
+    border-radius: 30px;
+    border-width: 0px;
+    background-color: rgba(185, 116, 37, 0.993);
+    margin:10px;
+    color:white;
+    width:120px
+}
+.buttonicon{
+    height:20px
+}
+.design{
+    color:rgb(170, 232, 62);
+}
